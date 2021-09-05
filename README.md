@@ -3,8 +3,7 @@ Wipe Sigma Out!
 
 
 ## Description
-#### This tool is used to remove all files associated with Sigma Client! Sigma is a very famous Minecraft Hacked Client, which contains a Monero(xmr) miner! So unlike other
-#### clients / hacked clients, this one is malicious and dropps a malicious file on your file and uses ur pc for malicious purposes!
+#### This tool is used to remove all files associated with Sigma Client! Sigma is a very famous Minecraft Hacked Client, which contains a Monero(xmr) miner! So unlike other clients / hacked clients, this one is malicious and dropps a malicious file on your file and uses ur pc for malicious purposes!
 
 ## T.O.S
 ![APM](https://img.shields.io/apm/l/vim-mode?style=for-the-badge)
