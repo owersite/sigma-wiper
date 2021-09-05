@@ -17,6 +17,7 @@ clients / hacked clients, this one is malicious and dropps a malicious file on y
 ## How2Contribute
 ###### You can make my spaghetti code a bit more not spaghetti!
 ###### You can Star my repository!
+###### Share the repository because noone should get their PC's used for someones illegal profit. (Shame on you Omikrons)
 
 ## Credits:
 ###### XatzClient - Sigma Deleter ( https://github.com/XatzClient/Sigma-Deleter/ )
