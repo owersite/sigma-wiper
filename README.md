@@ -15,7 +15,10 @@ clients / hacked clients, this one is malicious and dropps a malicious file on y
 ![preview](preview.gif)
 
 ## Credits:
-###### Soon
+###### XatzClient - Sigma Deleter ( https://github.com/XatzClient/Sigma-Deleter/ )
+###### This repository gave me idea to do the same in c#, i support them and i am very happy that repositories on github like that one exist, upvotes for XatzClient team!
+###### 
+###### Marex / Reflect for pointing out & reaching me about the whole case with Sigma!
 
 
 
