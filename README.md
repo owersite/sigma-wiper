@@ -10,7 +10,7 @@ Wipe Sigma Out!
 ###### This repository/project is under MIT licence! Use it in terms of it!
 
 
-### Preview(soon):
+### Preview:
 ![preview](preview.gif)
 
 ## How2Contribute
